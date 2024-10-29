@@ -1,0 +1,398 @@
+[
+  {
+      "SlNo": 1,
+      "StudentId": "7230001",
+      "Name": "Adith Kumar Rai",
+      "Presentation": 30,
+      "Content": 27,
+      "Report": 21,
+      "OutOf20": 15.6
+  },
+  {
+      "SlNo": 2,
+      "StudentId": "7230003",
+      "Name": "Bishnu Kumari Karki",
+      "Presentation": 30,
+      "Content": 28,
+      "Report": 21,
+      "OutOf20": 15.8
+  },
+  {
+      "SlNo": 3,
+      "StudentId": "7230004",
+      "Name": "Cheki Dorji",
+      "Presentation": 26,
+      "Content": 30,
+      "Report": 25,
+      "OutOf20": 16.2
+  },
+  {
+      "SlNo": 4,
+      "StudentId": "7230006",
+      "Name": "Chimi Lham",
+      "Presentation": 30,
+      "Content": 22,
+      "Report": 29,
+      "OutOf20": 16.2
+  },
+  {
+      "SlNo": 5,
+      "StudentId": "7230007",
+      "Name": "Chimi Rinzin Drukpa",
+      "Presentation": 27,
+      "Content": 24,
+      "Report": 27,
+      "OutOf20": 15.6
+  },
+  {
+      "SlNo": 6,
+      "StudentId": "7230010",
+      "Name": "Drimey yoezer",
+      "Presentation": 30,
+      "Content": 22,
+      "Report": 29,
+      "OutOf20": 16.2
+  },
+  {
+      "SlNo": 7,
+      "StudentId": "7230011",
+      "Name": "Galey Mo",
+      "Presentation": 20,
+      "Content": 28,
+      "Report": 22,
+      "OutOf20": 14.0
+  },
+  {
+      "SlNo": 8,
+      "StudentId": "7230017",
+      "Name": "Kuenga Tenzin Thinley",
+      "Presentation": 26,
+      "Content": 29,
+      "Report": 28,
+      "OutOf20": 16.6
+  },
+  {
+      "SlNo": 9,
+      "StudentId": "7230018",
+      "Name": "Lungten Zangmo",
+      "Presentation": 26,
+      "Content": 23,
+      "Report": 28,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 10,
+      "StudentId": "7230019",
+      "Name": "Pema Namgay",
+      "Presentation": 29,
+      "Content": 23,
+      "Report": 28,
+      "OutOf20": 16.0
+  },
+  {
+      "SlNo": 11,
+      "StudentId": "7230022",
+      "Name": "Tashi Pelden",
+      "Presentation": 30,
+      "Content": 28,
+      "Report": 26,
+      "OutOf20": 16.8
+  },
+  {
+      "SlNo": 12,
+      "StudentId": "7230027",
+      "Name": "Deki Youngden",
+      "Presentation": 27,
+      "Content": 30,
+      "Report": 24,
+      "OutOf20": 16.2
+  },
+  {
+      "SlNo": 13,
+      "StudentId": "7230028",
+      "Name": "Gyembo Wangchuk",
+      "Presentation": 24,
+      "Content": 20,
+      "Report": 23,
+      "OutOf20": 13.4
+  },
+  {
+      "SlNo": 14,
+      "StudentId": "7230029",
+      "Name": "Jigme Lhuendrup Namgyel",
+      "Presentation": 24,
+      "Content": 24,
+      "Report": 25,
+      "OutOf20": 14.6
+  },
+  {
+      "SlNo": 15,
+      "StudentId": "7230030",
+      "Name": "Karma Dorji",
+      "Presentation": 28,
+      "Content": 23,
+      "Report": 21,
+      "OutOf20": 14.4
+  },
+  {
+      "SlNo": 16,
+      "StudentId": "7230034",
+      "Name": "Kinzang dorji",
+      "Presentation": 30,
+      "Content": 21,
+      "Report": 20,
+      "OutOf20": 14.2
+  },
+  {
+      "SlNo": 17,
+      "StudentId": "7230036",
+      "Name": "Manita Gurung",
+      "Presentation": 21,
+      "Content": 26,
+      "Report": 22,
+      "OutOf20": 13.8
+  },
+  {
+      "SlNo": 18,
+      "StudentId": "7230037",
+      "Name": "Namgay Thinley",
+      "Presentation": 29,
+      "Content": 30,
+      "Report": 28,
+      "OutOf20": 17.4
+  },
+  {
+      "SlNo": 19,
+      "StudentId": "7230038",
+      "Name": "Pema Wangdi",
+      "Presentation": 20,
+      "Content": 24,
+      "Report": 29,
+      "OutOf20": 14.6
+  },
+  {
+      "SlNo": 20,
+      "StudentId": "7230039",
+      "Name": "Phub Dema",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 21,
+      "StudentId": "7230040",
+      "Name": "Ranjana Sunwar",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 22,
+      "StudentId": "7230042",
+      "Name": "Sangay Wangmo",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 23,
+      "StudentId": "7230043",
+      "Name": "Sonam Dorji",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 24,
+      "StudentId": "7230044",
+      "Name": "Sonam Phuntsho",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 25,
+      "StudentId": "7230048",
+      "Name": "Karma Sonam Tashi",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 26,
+      "StudentId": "7230051",
+      "Name": "Kinley zam",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 27,
+      "StudentId": "7230054",
+      "Name": "Man Singh Layo",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 28,
+      "StudentId": "7230055",
+      "Name": "Pema Choden",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 29,
+      "StudentId": "7230058",
+      "Name": "Rinchen Dorji",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 30,
+      "StudentId": "7230059",
+      "Name": "Sangay Tshomo",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 31,
+      "StudentId": "7230061",
+      "Name": "Sonam Chophel",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 32,
+      "StudentId": "7230064",
+      "Name": "Sonam yangchen",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 33,
+      "StudentId": "7230069",
+      "Name": "Yoenten Tharchen",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 34,
+      "StudentId": "7230074",
+      "Name": "Pema Wangdi",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 35,
+      "StudentId": "7230076",
+      "Name": "Rinzin Dema",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 36,
+      "StudentId": "7230078",
+      "Name": "Tara Maya Limbu",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 37,
+      "StudentId": "7230079",
+      "Name": "Tashi Lhamo",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 38,
+      "StudentId": "7230082",
+      "Name": "Tshering Om",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 39,
+      "StudentId": "7230083",
+      "Name": "Tshering Pemo",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 40,
+      "StudentId": "7230084",
+      "Name": "Tshering Yangden",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 41,
+      "StudentId": "7230089",
+      "Name": "Yam Kumar Rai",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 42,
+      "StudentId": "7230090",
+      "Name": "Yeshi Choden",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 43,
+      "StudentId": "7230091",
+      "Name": "Yeshi Drayang",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  },
+  {
+      "SlNo": 44,
+      "StudentId": "7230210",
+      "Name": "Anup Gurung",
+      "Presentation": 20,
+      "Content": 30,
+      "Report": 27,
+      "OutOf20": 15.4
+  }
+]

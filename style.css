@@ -1,0 +1,21 @@
+/* Styling for the result table */
+.result-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  border: 2px solid blue;
+}
+
+.result-table th,
+.result-table td {
+  border: 1px solid blue;
+  padding: 8px;
+  text-align: left;
+}
+
+/* Green background for table headers */
+.result-table th {
+  background-color: rgb(24, 96, 211);
+  color: white;
+  font-weight: bold;
+}
